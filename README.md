@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hari Darshan SV</h1>
 <h3 align="center">"A Passionate Software Developer | Committed to Learning | Based in India"</h3>
 
-<img align="right" alt="coding" width="360" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="right" alt="coding" width="360" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1M3NW2sjkt68mwJ6BdQBhi&ust=1708770221342000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjY2LifwYQDFQAAAAAdAAAAABAE">
 
 - 🔭 I’m currently working on **Full Stack MERN Projects**
 
