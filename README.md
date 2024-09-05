@@ -90,19 +90,30 @@
   </a>
   <!-- NLP, LLM, Generative AI -->
   <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*TsFHDuXPSkr_u48nJm5tOg.png" alt="nlp" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/NLTK_logo.svg/1200px-NLTK_logo.svg.png" alt="nlp" width="40" height="40"/>
   </a>
   <a href="https://huggingface.co" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" alt="llm" width="40" height="40"/>
   </a>
   <a href="https://openai.com/research" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="genai" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/OpenAI_Logo_2020.svg/1200px-OpenAI_Logo_2020.svg.png" alt="genai" width="40" height="40"/>
   </a>
   <!-- MLOps & ZenML -->
   <a href="https://zenml.io/" target="_blank" rel="noreferrer">
     <img src="https://zenml.io/assets/images/ZenML-logo-main.svg" alt="zenml" width="40" height="40"/>
   </a>
+  <!-- Additional Tools -->
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/LangChain_logo.svg/1200px-LangChain_logo.svg.png" alt="langchain" width="40" height="40"/>
+  </a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Streamlit_logo.svg" alt="streamlit" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/>
+  </a>
 </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haridarshan0710&show_icons=true&locale=en&layout=compact" alt="haridarshan0710" /></p>
