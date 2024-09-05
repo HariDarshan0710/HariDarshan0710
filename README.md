@@ -74,9 +74,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+<!--   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
-  </a>
+  </a> -->
   <!-- Data Science and Machine Learning -->
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
@@ -89,17 +89,17 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_logo_with_text_svg_version.svg" alt="computer_vision" width="40" height="40"/>
   </a>
   <!-- NLP, LLM, Generative AI -->
-  <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.nltk.org/#" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/NLTK_logo.svg/1200px-NLTK_logo.svg.png" alt="nlp" width="40" height="40"/>
   </a>
-  <a href="https://huggingface.co" target="_blank" rel="noreferrer">
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" alt="llm" width="40" height="40"/>
   </a>
-  <a href="https://openai.com/research" target="_blank" rel="noreferrer">
+  <a href="https://openai.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/OpenAI_Logo_2020.svg/1200px-OpenAI_Logo_2020.svg.png" alt="genai" width="40" height="40"/>
   </a>
   <!-- MLOps & ZenML -->
-  <a href="https://zenml.io/" target="_blank" rel="noreferrer">
+  <a href="https://www.zenml.io/" target="_blank" rel="noreferrer">
     <img src="https://zenml.io/assets/images/ZenML-logo-main.svg" alt="zenml" width="40" height="40"/>
   </a>
   <!-- Additional Tools -->
