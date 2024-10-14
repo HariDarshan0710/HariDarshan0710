@@ -7,13 +7,11 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
-- 👯 Academic Research **Collaborated with Biotechnology PhD Researchers, co-author on a research paper focusing on drug designing through computational modelling of Thunbergia Mysorensis flower plant to address ML based diabetes control.**
+- 👯 Academic Research Collaborated with Biotechnology PhD Researchers, co-author on a research paper focusing on drug designing through computational modelling of Thunbergia Mysorensis flower plant to address ML based diabetes control.
 
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/HariDarshan]
-
-- 💬 Ask me about **Published Research Paper on Finale year Project Arogya Vicharana**
+- 👨‍💻 All of my projects are available at **(https://www.datascienceportfol.io/HariDarshan)**
   
-- 💬 About My Article ** Link**
+- 💬 I write Article **https://medium.com/@svharidarshan07**
 
 - 📫 How to reach me **svharidarshan07@gmail.com**
 
