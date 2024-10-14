@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at **(https://www.datascienceportfol.io/HariDarshan)**
   
-- 💬 I write Article **https://medium.com/@svharidarshan07**
+- 💬 I write Article [Here](**https://medium.com/@svharidarshan07**)
 
 - 📫 How to reach me **svharidarshan07@gmail.com**
 
