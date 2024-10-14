@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **svharidarshan07@gmail.com**
 
-- 📄 Know about my experiences [Here]()
+- 📄 Know about my experiences **[Here]()**
 
-- ⚡ Hobby **Guitar, Puzzle**
+- ⚡ Hobby **I play Guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
