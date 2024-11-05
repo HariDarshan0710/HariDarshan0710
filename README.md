@@ -3,13 +3,39 @@
 ![Profile Visit Count](https://visitcount.itsvg.in/api?id=HariDarshan0710&icon=7&color=1)
 
 <h1 align="center">Welcome to My GitHub Profile!</h1>
-<h2 align="center">I am Hari Darshan SV, a dedicated AI and ML enthusiast committed to continuous learning and innovation.</h2>
+<h2 align="center">"Greetings! I'm Hari Darshan SV, committed to advancing AI and ML technologies."</h2>
 
 <p align="center">
     <img align="right" alt="coding" width="360" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 </p>
 
-🔭 I’m currently working on **LLM, Gen AI, NLP, MLOPs, Computer Vision** - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning** - 👯 Academic Research Collaborated with Biotechnology PhD Researchers, co-author on a research paper focusing on drug designing through computational modelling of Thunbergia Mysorensis flower plant to address ML based diabetes control. - 👨‍💻 All of my projects are available at **[Portfolio](https://www.datascienceportfol.io/HariDarshan)** - 💬 I write Article **[Medium](https://medium.com/@svharidarshan07)** - 📫 How to reach me **svharidarshan07@gmail.com** - 📄 Know about my experiences **[Here]()** - ⚡ Hobby **I play Guitar** <h3 align="left">Connect with me:</h3> <p align="left"> <a 
+---
+
+🔭 **Current Work:**  
+I’m currently working on **LLM, Gen AI, NLP, MLOps, and Computer Vision.**
+
+🌱 **Learning Journey:**  
+I’m currently learning **Artificial Intelligence and Machine Learning.**
+
+👯 **Academic Research:**  
+Collaborated with Biotechnology PhD researchers as a co-author on a research paper focused on drug design through computational modeling of the Thunbergia Mysorensis flower plant to address ML-based diabetes control.
+
+👨‍💻 **Projects:**  
+All of my projects are available at **[Portfolio](https://www.datascienceportfol.io/HariDarshan).**
+
+💬 **Writing:**  
+I write articles on **[Medium](https://medium.com/@svharidarshan07).**
+
+📫 **Contact:**  
+Reach me at **svharidarshan07@gmail.com.**
+
+📄 **Experience:**  
+Know about my experiences **[Here]()**.
+
+⚡ **Hobby:**  
+I enjoy playing the guitar.
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
