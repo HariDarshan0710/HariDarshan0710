@@ -1,3 +1,7 @@
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+[![](https://visitcount.itsvg.in/api?id=HariDarshan0710
+&icon=7&color=1)](https://visitcount.itsvg.in)
+
 <h1 align="center">Hi 👋, I'm Hari Darshan SV</h1>
 <h3 align="center">"A Passionate AI & ML | Committed to Learning | Based in India"</h3>
 
@@ -151,6 +155,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haridarshan0710&" alt="haridarshan0710" /></p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <!---
 HariDarshan0710/HariDarshan0710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
