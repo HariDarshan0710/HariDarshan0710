@@ -8,18 +8,16 @@
 <p align="center">
     <img align="right" alt="coding" width="360" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 </p>
----
 
 🔭 **Current Work:** I’m working on **LLM, Gen AI, NLP, MLOps, and Computer Vision.**  
 🌱 **Learning:** I’m learning **Artificial Intelligence and Machine Learning.**  
-👯 **Academic Research:** Co-authored a research paper on drug design using computational modeling of the Thunbergia Mysorensis flower for ML-based diabetes control.  
+👯 **Academic Research:👯 Co-authored a paper on using computational modeling of Thunbergia Mysorensis for ML-based diabetes drug design.  
 👨‍💻 **Projects:** View my projects at **[Portfolio](https://www.datascienceportfol.io/HariDarshan).**  
 💬 **Writing:** Read my articles on **[Medium](https://medium.com/@svharidarshan07).**  
 📫 **Contact:** Reach me at **svharidarshan07@gmail.com.**  
 📄 **Experience:** Check my experiences **[Here]()**.  
 ⚡ **Hobby:** I play the guitar.  
 
----
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/hari-darshan-sv-8b99a7270/" target="blank">
