@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hari Darshan SV</h1>
 <h3 align="center">"A Passionate AI & ML | Committed to Learning | Based in India"</h3>
 
-<img align="right" alt="coding" width="360" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
+<img align="right" alt="coding" width="360" src="<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">">
 
 - 🔭 I’m currently working on **LLM, Gen AI, NLP, MLOPs, Computer Vision**
 
