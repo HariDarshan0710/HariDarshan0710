@@ -85,33 +85,69 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="ml" width="40" height="40"/>
   </a>
 <!--   Computer Vision -->
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+<!--   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_logo_with_text_svg_version.svg" alt="computer_vision" width="40" height="40"/>
   </a>
   <!-- NLP, LLM, Generative AI -->
-  <a href="https://www.nltk.org/#" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.nltk.org/#" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/NLTK_logo.svg/1200px-NLTK_logo.svg.png" alt="nlp" width="40" height="40"/>
-  </a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+  </a> -->
+<!--   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" alt="llm" width="40" height="40"/>
-  </a>
-  <a href="https://openai.com/" target="_blank" rel="noreferrer">
+  </a> -->
+<!--   <a href="https://openai.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/OpenAI_Logo_2020.svg/1200px-OpenAI_Logo_2020.svg.png" alt="genai" width="40" height="40"/>
-  </a>
+  </a> -->
   <!-- MLOps & ZenML -->
-  <a href="https://www.zenml.io/" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.zenml.io/" target="_blank" rel="noreferrer">
     <img src="https://zenml.io/assets/images/ZenML-logo-main.svg" alt="zenml" width="40" height="40"/>
-  </a>
+  </a> -->
   <!-- Additional Tools -->
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/LangChain_logo.svg/1200px-LangChain_logo.svg.png" alt="langchain" width="40" height="40"/>
-  </a>
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+  </a> -->
+<!--   <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Streamlit_logo.svg" alt="streamlit" width="40" height="40"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+  </a> -->
+<!--   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/>
+  </a> --> -->
+<h2 ><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">My working tools</h2>
+<!--tech stack icons-->
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,py,r,java,pytorch,html,d3,css,js,mysql,sqlite,postgres,git,github,vscode,md,kali&perline=12" />
   </a>
+</p>
+<br>
+<!--- stats (end) -->
+<h2>
+</h2>
+<p align="left">
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
+  <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
+  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>  
+  <code> <img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/markdown-here/markdown-here-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
+  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/pytest/pytest-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/google_drive/google_drive-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"> </code>
+
+  
 </p> -->
 
 
