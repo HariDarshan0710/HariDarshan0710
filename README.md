@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-[![](https://visitcount.itsvg.in/api?id=HariDarshan0710
-&icon=7&color=1)](https://visitcount.itsvg.in)
+
+![Profile Visit Count](https://visitcount.itsvg.in/api?id=HariDarshan0710&icon=7&color=1)
 
 <h1 align="center">Hi 👋, I'm Hari Darshan SV</h1>
 <h3 align="center">"A Passionate AI & ML | Committed to Learning | Based in India"</h3>
