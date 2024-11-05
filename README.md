@@ -9,16 +9,7 @@
     <img align="right" alt="coding" width="360" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 </p>
 
-<p align="left">
-- 🔭 I’m currently working on **LLM, Gen AI, NLP, MLOps, and Computer Vision**.<br>
-- 🌱 I’m enhancing my knowledge in **Artificial Intelligence and Machine Learning**.<br>
-- 👯 As part of my academic research, I collaborated with PhD researchers in Biotechnology on a paper that focuses on drug design using computational modeling of the Thunbergia Mysorensis flower. This work aims to address diabetes control through machine learning techniques.<br>
-- 👨‍💻 All of my projects are available at **[Portfolio](https://www.datascienceportfol.io/HariDarshan)**.<br>
-- 💬 I share insights and articles on **[Medium](https://medium.com/@svharidarshan07)**.<br>
-- 📫 You can reach me at: **[svharidarshan07@gmail.com](mailto:svharidarshan07@gmail.com)**.<br>
-- 📄 Discover more about my experiences **[Here]()**.<br>
-- ⚡ In my free time, I enjoy playing the guitar.
-</p>
+🔭 I’m currently working on **LLM, Gen AI, NLP, MLOPs, Computer Vision** - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning** - 👯 Academic Research Collaborated with Biotechnology PhD Researchers, co-author on a research paper focusing on drug designing through computational modelling of Thunbergia Mysorensis flower plant to address ML based diabetes control. - 👨‍💻 All of my projects are available at **[Portfolio](https://www.datascienceportfol.io/HariDarshan)** - 💬 I write Article **[Medium](https://medium.com/@svharidarshan07)** - 📫 How to reach me **svharidarshan07@gmail.com** - 📄 Know about my experiences **[Here]()** - ⚡ Hobby **I play Guitar** <h3 align="left">Connect with me:</h3> <p align="left"> <a 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
