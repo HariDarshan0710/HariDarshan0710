@@ -78,13 +78,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
   </a> -->
   <!-- Data Science and Machine Learning -->
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+<!--   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
   </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="ml" width="40" height="40"/>
   </a>
-  <!-- Computer Vision -->
+<!--   Computer Vision -->
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_logo_with_text_svg_version.svg" alt="computer_vision" width="40" height="40"/>
   </a>
@@ -112,7 +112,7 @@
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/>
   </a>
-</p>
+</p> -->
 
 
 
