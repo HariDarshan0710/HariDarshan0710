@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hari Darshan SV</h1>
 <h3 align="center">"A Passionate AI & ML | Committed to Learning | Based in India"</h3>
 
-<img align="right" alt="coding" width="360" src="<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">">
+<img align="right" alt="coding" width="360" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+
 
 - 🔭 I’m currently working on **LLM, Gen AI, NLP, MLOPs, Computer Vision**
 
