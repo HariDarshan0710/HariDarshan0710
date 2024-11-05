@@ -10,21 +10,14 @@
 </p>
 ---
 
-🔭 **Current Work:** I’m currently working on **LLM, Gen AI, NLP, MLOps, and Computer Vision.**  
-
-🌱 **Learning Journey:** I’m currently learning **Artificial Intelligence and Machine Learning.**  
-
-👯 **Academic Research:** Collaborated with Biotechnology PhD researchers as a co-author on a research paper focused on drug design through computational modeling of the Thunbergia Mysorensis flower plant to address ML-based diabetes control.  
-
-👨‍💻 **Projects:** All of my projects are available at **[Portfolio](https://www.datascienceportfol.io/HariDarshan).**  
-
-💬 **Writing:** I write articles on **[Medium](https://medium.com/@svharidarshan07).**  
-
+🔭 **Current Work:** I’m working on **LLM, Gen AI, NLP, MLOps, and Computer Vision.**  
+🌱 **Learning:** I’m learning **Artificial Intelligence and Machine Learning.**  
+👯 **Academic Research:** Co-authored a research paper on drug design using computational modeling of the Thunbergia Mysorensis flower for ML-based diabetes control.  
+👨‍💻 **Projects:** View my projects at **[Portfolio](https://www.datascienceportfol.io/HariDarshan).**  
+💬 **Writing:** Read my articles on **[Medium](https://medium.com/@svharidarshan07).**  
 📫 **Contact:** Reach me at **svharidarshan07@gmail.com.**  
-
-📄 **Experience:** Know about my experiences **[Here]()**.  
-
-⚡ **Hobby:** I enjoy playing the guitar.  
+📄 **Experience:** Check my experiences **[Here]()**.  
+⚡ **Hobby:** I play the guitar.  
 
 ---
 <h3 align="left">Connect with me:</h3>
