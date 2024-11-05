@@ -11,7 +11,9 @@
 
 🔭 **Current Work:** I’m working on **LLM, Gen AI, NLP, MLOps, and Computer Vision.**  
 🌱 **Learning:** I’m learning **Artificial Intelligence and Machine Learning.**  
+
 👯 **Academic Research:👯 Co-authored a paper on using computational modeling of Thunbergia Mysorensis for ML-based diabetes drug design.  
+
 👨‍💻 **Projects:** View my projects at **[Portfolio](https://www.datascienceportfol.io/HariDarshan).**  
 💬 **Writing:** Read my articles on **[Medium](https://medium.com/@svharidarshan07).**  
 📫 **Contact:** Reach me at **svharidarshan07@gmail.com.**  
