@@ -1,6 +1,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ![Profile Visit Count](https://visitcount.itsvg.in/api?id=HariDarshan0710&icon=7&color=1)
+![Profile Views](https://komarev.com/ghpvc/?username=HariDarshan0710&color=blue)
+
 
 <h1 align="center">Welcome to My GitHub Profile!</h1>
 <h2 align="center">"Greetings! I'm Hari Darshan SV, committed to advancing AI and ML technologies."</h2>
